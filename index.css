@@ -3,15 +3,11 @@ body {
     font-family: 'Courier New';
 }
 
-header {
-    color: blue;
-    text-align: center;
-}
-
 #sectionHeader {
     background-color: gray;
     color: darkblue;
     border-style:dashed;
+    border-color: black;
     width: 410px;
     padding: 5px;
 }
@@ -32,8 +28,4 @@ header {
     padding-left: 20px;
     width: 200px;
     height: 200px;
-}
-
-#itemHeader {
-    text-align: center;
 }
