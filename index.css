@@ -1,0 +1,39 @@
+body {
+    background-color: lightgray;
+    font-family: 'Courier New';
+}
+
+header {
+    color: blue;
+    text-align: center;
+}
+
+#sectionHeader {
+    background-color: gray;
+    color: darkblue;
+    border-style:dashed;
+    width: 410px;
+    padding: 5px;
+}
+
+#sectionItems {
+    display:inline-flex;
+}
+
+#itemTable {
+    background-color: darkgray;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 200px;  
+}
+ 
+#img {
+    padding-left: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+#itemHeader {
+    text-align: center;
+}
